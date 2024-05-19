@@ -1,0 +1,3 @@
+/Users/simop/Documents/APC/Assignment1/10716570/cmake-build-debug/CMakeFiles/Assignment1_initial.dir
+/Users/simop/Documents/APC/Assignment1/10716570/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/simop/Documents/APC/Assignment1/10716570/cmake-build-debug/CMakeFiles/rebuild_cache.dir
